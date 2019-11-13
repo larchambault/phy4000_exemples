@@ -1,0 +1,6 @@
+# Files
+
+# Directories (and thus their content)
+output/
+intermediate/
+.ipynb_checkpoints/
