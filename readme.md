@@ -5,7 +5,7 @@ Carnets Jupyter en support au cours de traitement d'image dans le cadre des cour
 
 Tout ces exemples utilisent l'image suivante pour tester différentes opérations de traitement d'image:
 
-![](slice_86.png)
+![](imgs/test_img_8bits.png)
 
 - Les manipulations spatiales, manipulations d'intensités et les filtres par noyaux ce trouvent dans ce [premier carnet](image_manip.ipynb)
 - Les manipulations dans l'espace de Fourier se trouvent dans ce [deuxième carnet](espace_Fourier.ipynb)
